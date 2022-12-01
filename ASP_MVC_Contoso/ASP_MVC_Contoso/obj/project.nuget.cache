@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BvMdneGfL8nUHD48RnVwvd/2kmr6wcYfrGAOk6b8G0r430JpIbumTT2ZowVdFVuEhva0ec5rF/5t1AM3kiuJGw==",
+  "dgSpecHash": "yUTJzL0wmCXM2unTb8b5Wp4E35MJmUr1Acg5rpZAR6Y8/B77iRgAeQHolmQwKffOJafOLwHgHTlMcDBX6gWxew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arbaaz\\Desktop\\(CO550) Web Applications\\Code\\Logbook-3\\ASP_MVC_Contoso\\ASP_MVC_Contoso\\ASP_MVC_Contoso.csproj",
+  "projectFilePath": "C:\\Users\\Arbaaz\\Documents\\GITHUB\\CO550-MVC-Contoso-P1\\ASP_MVC_Contoso\\ASP_MVC_Contoso\\ASP_MVC_Contoso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arbaaz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Arbaaz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
